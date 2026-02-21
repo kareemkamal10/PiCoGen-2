@@ -1,5 +1,7 @@
 # picogen2
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kareemkamal10/PiCoGen-2/blob/main/picogen2_colab.ipynb)
+
 ## Quickstart: generate your piano cover!
 PiCoGen2 is an automatic piano cover generation system which utilize [SheetSage](https://github.com/chrisdonahue/sheetsage) to extract music feature from input audio and produce its cover version of the orignal piece.
 You can run this model with [Docker](https://docs.docker.com/) or local environments. Ensure you are running Linux with GPU memory larger than 16GB.
